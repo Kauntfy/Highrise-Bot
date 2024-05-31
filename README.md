@@ -23,4 +23,4 @@ Did you like this repository? Did you learn how to really create a bot in Highri
 PayPal: kaue55aquino@gmail.com
 
 > [!IMPORTANT]
-> (_Obs: To make a donation via email through PayPal, simply search for the option that allows you to make a payment to someone and search for my email in the search bar_).
+> (_To make a donation via email through PayPal, simply search for the option that allows you to make a payment to someone and search for my email in the search bar_).
