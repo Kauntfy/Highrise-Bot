@@ -12,11 +12,11 @@ The game allows you to make internal and external ([Creature](https://market.imm
 > Are you interested in playing this incredible metaverse simulator?
 > [!TIP]
 [Highrise site](https://highrise.game/)
-
+> [!TIP]
 [Pocket Worlds site](https://www.pocketworlds.com)
-
+> [!TIP]
 [Link to install Highrise on Android devices](https://play.google.com/store/apps/details?id=com.pz.life.android)
-
+> [!TIP]
 [Link to install Highrise on iOS devices](https://apps.apple.com/us/app/highrise-avatar-chat-games/id924589795)
 
 Did you like this repository? Did you learn how to really create a bot in Highrise? If you can, make a donation to support me and encourage me to bring you more interesting things. It doesn't have to be a large amount.
