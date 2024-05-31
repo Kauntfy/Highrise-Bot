@@ -7,7 +7,7 @@ Highrise is a game that aims to simulate the metaverse, or rather the digital wo
 When you join the game, you automatically join a community of over 50 million totally real players in a new world with endless possibilities. In addition, the game currently features 3D worlds, which are frequently optimized to run as smoothly as possible on your device.
 
 
-Are you interested in playing this incredible metaverse simulator? 
+Are you interested in playing this incredible metaverse simulator?ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 Link to install Highrise on Android devices: https://play.google.com/store/apps/details?id=com.pz.life.android
 
 Link to install Highrise on iOS devices: https://apps.apple.com/br/app/highrise-avatar-chat-e-jogo/id924589795
