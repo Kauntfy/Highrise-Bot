@@ -10,4 +10,4 @@ Are you interested in playing this incredible metaverse simulator?
 
 Link to install Highrise on Android devices: https://play.google.com/store/apps/details?id=com.pz.life.android
 
-Link to install Highrise on iOS devices: https://apps.apple.com/br/app/highrise-avatar-chat-e-jogo/id924589795
+Link to install Highrise on iOS devices: https://apps.apple.com/us/app/highrise-avatar-chat-games/id924589795
