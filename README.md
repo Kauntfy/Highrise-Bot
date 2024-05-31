@@ -27,4 +27,4 @@ PayPal: kaue55aquino@gmail.com
 > [!IMPORTANT]
 > _To make a donation via email through PayPal, simply search for the option that allows you to make a payment to someone and search for my email in the search bar_.
 
-![Highrise](https://images.app.goo.gl/1u295ZWHcHR9TDx57)
+/storage/emulated/0/Download/.trashed-1719788837-unnamed.webp
