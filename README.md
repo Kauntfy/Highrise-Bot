@@ -8,6 +8,8 @@ When you join the game, you automatically join a community of over 50 million to
 
 Are you interested in playing this incredible metaverse simulator?
 
+Game site: https://highrise.game/
+
 Link to install Highrise on Android devices: https://play.google.com/store/apps/details?id=com.pz.life.android
 
 Link to install Highrise on iOS devices: https://apps.apple.com/us/app/highrise-avatar-chat-games/id924589795
