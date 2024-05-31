@@ -6,7 +6,7 @@ If you're a Highrise player, you don't necessarily need to create a bot. It's mo
 
 Highrise is a game that aims to simulate the metaverse, or rather the digital world. It allows you to explore fashion and create your own avatar with all kinds of colors, clothes and accessories that are completely personalized.
 When you join the game, you automatically join a community of over 50 million totally real players in a new world with endless possibilities. In addition, the game currently features [3D worlds](https://high.rs/world?id=65ea0162bfc526aad57b32ef), which are frequently optimized to run as smoothly as possible on your device.
-The game allows you to make internal and external ([Creature](https://market.immutable.com/collections/0xb0e827c9ab5e68d243f707f832b756981987f704), using the [Ethereum](https://www.binance.com/price/ethereum) cryptocurrency) transactions ([Metamask] for external purchases/payments(https://metamask.io/)) to obtain clothes, accessories and even items to add to your own room. [You can build your own worlds](https://create.highrise.game/highrise-studio).
+The game allows you to make internal and external ([Creature](https://market.immutable.com/collections/0xb0e827c9ab5e68d243f707f832b756981987f704), using the [Ethereum](https://www.binance.com/price/ethereum) cryptocurrency) transactions ([Metamask](https://metamask.io/) for external purchases/payments) to obtain clothes, accessories and even items to add to your own room. [You can build your own worlds](https://create.highrise.game/highrise-studio).
 
 Are you interested in playing this incredible metaverse simulator?
 
