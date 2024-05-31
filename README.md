@@ -6,5 +6,4 @@ If you're a Highrise player, you don't necessarily need to create a bot. It's mo
 Highrise is the easiest way to create your avatar's identity, meet friends, stay informed and explore a magical virtual world - all on your cell phone.
 
 Link to install Highrise on Android devices: https://play.google.com/store/apps/details?id=com.pz.life.android
-
 Link to install Highrise on iOS devices: https://apps.apple.com/br/app/highrise-avatar-chat-e-jogo/id924589795
