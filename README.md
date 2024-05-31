@@ -50,12 +50,12 @@ Are you interested in playing this incredible metaverse simulator?
 
 [Game site](https://highrise.game/)
 
-Link to install Highrise on Android devices: https://play.google.com/store/apps/details?id=com.pz.life.android
+[Link to install Highrise on Android devices] (https://play.google.com/store/apps/details?id=com.pz.life.android)
 
-Link to install Highrise on iOS devices: https://apps.apple.com/us/app/highrise-avatar-chat-games/id924589795
+[Link to install Highrise on iOS devices] (https://apps.apple.com/us/app/highrise-avatar-chat-games/id924589795)
 
 Did you like this repository? Did you learn how to really create a bot in Highrise? If you can, make a donation to support me and encourage me to bring you more interesting things. It doesn't have to be a large amount.
 
 PayPal: kaue55aquino@gmail.com
 
-(Obs: To make a donation via email through PayPal, simply search for the option that allows you to make a payment to someone and search for my email in the search bar).
+(_Obs: To make a donation via email through PayPal, simply search for the option that allows you to make a payment to someone and search for my email in the search bar_).
