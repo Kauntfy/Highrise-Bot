@@ -19,7 +19,8 @@ The game allows you to make internal and external ([Creature](https://market.imm
 
 [Link to install Highrise on iOS devices](https://apps.apple.com/us/app/highrise-avatar-chat-games/id924589795)
 
-Did you like this repository? Did you learn how to really create a bot in Highrise? If you can, make a donation to support me and encourage me to bring you more interesting things. It doesn't have to be a large amount.
+> [!NOTE]
+> Did you like this repository? Did you learn how to really create a bot in Highrise? If you can, make a donation to support me and encourage me to bring you more interesting things. It doesn't have to be a large amount.
 
 PayPal: kaue55aquino@gmail.com
 
