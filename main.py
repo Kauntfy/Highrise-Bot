@@ -1,6 +1,6 @@
 ### FILL IN YOUR ROOM ID & API KEY HERE
-room_id = "653fd92fb2e54f78f9b83442"
-api_key  = "761334a834003c8524c19c4b03282d892824fd878e5ba9bf7ce73475661c3a32"
+room_id = "YOUR ROOM ID"
+api_key  = "YOUR BOT API"
 
 from highrise import BaseBot, __main__, CurrencyItem, Item, Position, AnchorPosition, SessionMetadata, User
 from highrise.__main__ import BotDefinition
