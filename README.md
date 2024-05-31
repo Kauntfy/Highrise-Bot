@@ -5,6 +5,7 @@ If you're a Highrise player, you don't necessarily need to create a bot. It's mo
 
 Highrise is a game that aims to simulate the metaverse, or rather the digital world. It allows you to explore fashion and create your own avatar with all kinds of colors, clothes and accessories that are completely personalized.
 When you join the game, you automatically join a community of over 50 million totally real players in a new world with endless possibilities. In addition, the game currently features 3D worlds, which are frequently optimized to run as smoothly as possible on your device.
+The game allows you to make internal and external transactions to obtain clothes, accessories and even items to add to your own room. You can create hotels, squares and other places).
 
 Are you interested in playing this incredible metaverse simulator?
 
