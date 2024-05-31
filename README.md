@@ -48,7 +48,8 @@ The game allows you to make internal and external transactions to obtain clothes
 
 Are you interested in playing this incredible metaverse simulator?
 
-[Game site](https://highrise.game/)
+[Highrise site](https://highrise.game/)
+[Pocket Worlds site](https://www.pocketworlds.com)
 
 [Link to install Highrise on Android devices](https://play.google.com/store/apps/details?id=com.pz.life.android)
 
