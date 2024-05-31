@@ -5,7 +5,7 @@ The bot doesn't require so many details in the code and, for this reason, Pocket
 If you're a Highrise player, you don't necessarily need to create a bot. It's more useful for people who earn [Gold](https://highrise.game/shop) (in-game currency) from other people.
 
 Highrise is a game that aims to simulate the metaverse, or rather the digital world. It allows you to explore fashion and create your own avatar with all kinds of colors, clothes and accessories that are completely personalized.
-When you join the game, you automatically join a community of over 50 million totally real players in a new world with endless possibilities. In addition, the game currently features 3D worlds, which are frequently optimized to run as smoothly as possible on your device.
+When you join the game, you automatically join a community of over 50 million totally real players in a new world with endless possibilities. In addition, the game currently features [3D worlds](https://high.rs/world?id=65ea0162bfc526aad57b32ef), which are frequently optimized to run as smoothly as possible on your device.
 The game allows you to make internal and external ([Creature](https://market.immutable.com/collections/0xb0e827c9ab5e68d243f707f832b756981987f704), using the [Ethereum](https://www.binance.com/price/ethereum) cryptocurrency) transactions to obtain clothes, accessories and even items to add to your own room. [You can build your own worlds](https://create.highrise.game/highrise-studio).
 
 Are you interested in playing this incredible metaverse simulator?
