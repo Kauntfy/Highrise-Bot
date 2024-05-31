@@ -10,7 +10,7 @@ The game allows you to make internal and external ([Creature](https://market.imm
 
 > [!TIP]
 > Are you interested in playing this incredible metaverse simulator?
-
+> [!TIP]
 [Highrise site](https://highrise.game/)
 
 [Pocket Worlds site](https://www.pocketworlds.com)
