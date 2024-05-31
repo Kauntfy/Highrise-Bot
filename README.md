@@ -59,3 +59,5 @@ The game allows you to make internal and external transactions to obtain clothes
 🏦 ┃ PayPal: kaue55aquino@gmail.com
 
 ⚠️ ┃ (Obs: To make a donation via email through PayPal, simply search for the option that allows you to make a payment to someone and search for my email in the search bar).
+
+**NAO**
