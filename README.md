@@ -15,3 +15,7 @@ Game site: https://highrise.game/
 Link to install Highrise on Android devices: https://play.google.com/store/apps/details?id=com.pz.life.android
 
 Link to install Highrise on iOS devices: https://apps.apple.com/us/app/highrise-avatar-chat-games/id924589795
+
+Did you like this repository? Did you learn how to really create a bot in Highrise? If you can, make a donation to support me and encourage me to bring you more interesting things. It doesn't have to be a large amount.
+
+PayPal: kaue55aquino@gmail.com
