@@ -24,3 +24,7 @@ PayPal: kaue55aquino@gmail.com
 
 > [!IMPORTANT]
 > _To make a donation via email through PayPal, simply search for the option that allows you to make a payment to someone and search for my email in the search bar_.
+
+For the code to work together with your bot, don't forget to install the following dependency in the terminal:
+
+`pip install highrise-bot-sdk`
